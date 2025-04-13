@@ -1,0 +1,4 @@
+source;share/msg_srv_action_interface_example/local_setup.bash
+source;share/msg_srv_action_interface_example/local_setup.dsv
+source;share/msg_srv_action_interface_example/local_setup.sh
+source;share/msg_srv_action_interface_example/local_setup.zsh

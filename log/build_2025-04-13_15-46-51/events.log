@@ -1,0 +1,5 @@
+[0.000000] (-) TimerEvent: {}
+[0.001381] (-) JobUnselected: {'identifier': 'msg_srv_action_interface_example'}
+[0.001516] (-) JobUnselected: {'identifier': 'my_first_ros_rclcpp_pkg'}
+[0.001689] (-) JobUnselected: {'identifier': 'my_first_ros_rclpy_pkg'}
+[0.001782] (-) EventReactorShutdown: {}

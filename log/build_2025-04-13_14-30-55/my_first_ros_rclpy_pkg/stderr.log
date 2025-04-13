@@ -1,0 +1,5 @@
+  File "/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg/helloworld_publisher.py", line 65
+    break
+    ^^^^^
+SyntaxError: 'break' outside loop
+

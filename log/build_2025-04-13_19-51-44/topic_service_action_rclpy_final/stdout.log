@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating topic_service_action_rclpy_final.egg-info
+writing topic_service_action_rclpy_final.egg-info/PKG-INFO
+writing dependency_links to topic_service_action_rclpy_final.egg-info/dependency_links.txt
+writing entry points to topic_service_action_rclpy_final.egg-info/entry_points.txt
+writing requirements to topic_service_action_rclpy_final.egg-info/requires.txt
+writing top-level names to topic_service_action_rclpy_final.egg-info/top_level.txt
+writing manifest file 'topic_service_action_rclpy_final.egg-info/SOURCES.txt'
+reading manifest file 'topic_service_action_rclpy_final.egg-info/SOURCES.txt'
+writing manifest file 'topic_service_action_rclpy_final.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/lib/python3.10/site-packages/topic-service-action-rclpy-final.egg-link (link to .)
+Installing argument script to /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/lib/topic_service_action_rclpy_final
+Installing calculator script to /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/lib/topic_service_action_rclpy_final
+Installing checker script to /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/lib/topic_service_action_rclpy_final
+Installing operator script to /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/lib/topic_service_action_rclpy_final
+
+Installed /home/jungseong/robot_ws/build/topic_service_action_rclpy_final
+running symlink_data
+creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/share/ament_index
+creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/share/ament_index/resource_index
+creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/share/ament_index/resource_index/packages

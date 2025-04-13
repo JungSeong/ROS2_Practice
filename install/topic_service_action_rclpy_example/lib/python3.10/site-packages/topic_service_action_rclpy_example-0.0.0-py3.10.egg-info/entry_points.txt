@@ -1,0 +1,6 @@
+[console_scripts]
+argument = topic_service_action_rclpy_example.arithmetic.argument:main
+calculator = topic_service_action_rclpy_example.calculator.main:main
+checker = topic_service_action_rclpy_example.checker.main:main
+operator = topic_service_action_rclpy_example.arithmetic.operator:main
+

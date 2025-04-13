@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/requires.txt
+writing top-level names to ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/top_level.txt
+reading manifest file '../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info to /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing helloworld_publisher script to /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+Installing helloworld_subscriber script to /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+writing list of installed files to '/home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/install.log'

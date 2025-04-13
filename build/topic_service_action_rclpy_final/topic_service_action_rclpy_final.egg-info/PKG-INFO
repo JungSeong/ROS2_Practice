@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: topic-service-action-rclpy-final
+Version: 0.6.0
+Summary: ROS 2 rclpy example package for the topic, service, action
+Home-page: UNKNOWN
+Author: Pyo, Darby Lim
+Author-email: passionvirus@gmail.com, routiful@gmail.com
+Maintainer: Pyo
+Maintainer-email: passionvirus@gmail.com
+License: Apache License, Version 2.0
+Keywords: ROS
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development
+
+UNKNOWN
+

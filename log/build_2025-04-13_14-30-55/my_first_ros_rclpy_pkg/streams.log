@@ -1,0 +1,41 @@
+[1.158s] Invoking command in '/home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg': PYTHONPATH=/home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build
+[1.517s] running develop
+[1.794s] Removing /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my-first-ros-rclpy-pkg.egg-link (link to .)
+[1.824s] Invoked command in '/home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg' returned '0': PYTHONPATH=/home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build
+[1.826s] Invoking command in '/home/jungseong/robot_ws/src/my_first_ros_rclpy_pkg': PYTHONPATH=/home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_ros_rclpy_pkg build --build-base /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build install --record /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/install.log --single-version-externally-managed install_data --force
+[2.151s] running egg_info
+[2.153s] writing ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/PKG-INFO
+[2.154s] writing dependency_links to ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/dependency_links.txt
+[2.154s] writing entry points to ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/entry_points.txt
+[2.155s] writing requirements to ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/requires.txt
+[2.155s] writing top-level names to ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/top_level.txt
+[2.158s] reading manifest file '../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[2.161s] writing manifest file '../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[2.162s] running build
+[2.162s] running build_py
+[2.163s] copying my_first_ros_rclpy_pkg/helloworld_subscriber.py -> /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build/lib/my_first_ros_rclpy_pkg
+[2.163s] copying my_first_ros_rclpy_pkg/helloworld_publisher.py -> /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build/lib/my_first_ros_rclpy_pkg
+[2.163s] running install
+[2.163s] running install_lib
+[2.164s] creating /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg
+[2.164s] copying /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build/lib/my_first_ros_rclpy_pkg/helloworld_subscriber.py -> /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg
+[2.165s] copying /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build/lib/my_first_ros_rclpy_pkg/__init__.py -> /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg
+[2.165s] copying /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build/lib/my_first_ros_rclpy_pkg/helloworld_publisher.py -> /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg
+[2.165s] byte-compiling /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg/helloworld_subscriber.py to helloworld_subscriber.cpython-310.pyc
+[2.166s] byte-compiling /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg/__init__.py to __init__.cpython-310.pyc
+[2.166s] byte-compiling /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg/helloworld_publisher.py to helloworld_publisher.cpython-310.pyc
+[2.167s]   File "/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg/helloworld_publisher.py", line 65
+[2.167s]     break
+[2.167s]     ^^^^^
+[2.167s] SyntaxError: 'break' outside loop
+[2.167s] 
+[2.167s] running install_data
+[2.167s] copying resource/my_first_ros_rclpy_pkg -> /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/share/ament_index/resource_index/packages
+[2.167s] copying package.xml -> /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/share/my_first_ros_rclpy_pkg
+[2.168s] running install_egg_info
+[2.169s] Copying ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info to /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg-0.0.0-py3.10.egg-info
+[2.171s] running install_scripts
+[2.193s] Installing helloworld_publisher script to /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+[2.194s] Installing helloworld_subscriber script to /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+[2.194s] writing list of installed files to '/home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/install.log'
+[2.217s] Invoked command in '/home/jungseong/robot_ws/src/my_first_ros_rclpy_pkg' returned '0': PYTHONPATH=/home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_ros_rclpy_pkg build --build-base /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build install --record /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/install.log --single-version-externally-managed install_data --force

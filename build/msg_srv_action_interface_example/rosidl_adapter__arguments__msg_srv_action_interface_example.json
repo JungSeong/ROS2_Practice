@@ -1,0 +1,8 @@
+{
+  "package_name": "msg_srv_action_interface_example",
+  "non_idl_tuples": [
+    "/home/jungseong/robot_ws/src/msg_srv_action_interface_example:msg/ArithmeticArgument.msg",
+    "/home/jungseong/robot_ws/src/msg_srv_action_interface_example:srv/ArithmeticOperator.srv",
+    "/home/jungseong/robot_ws/src/msg_srv_action_interface_example:action/ArithmeticChecker.action"
+  ]
+}

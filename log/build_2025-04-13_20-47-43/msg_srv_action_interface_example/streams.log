@@ -1,0 +1,32 @@
+[0.030s] Invoking command in '/home/jungseong/robot_ws/build/msg_srv_action_interface_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jungseong/robot_ws/install/topic_service_action_rclpy_final:/home/jungseong/robot_ws/install/topic_service_action_rclpy_example:/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg:/opt/ros/humble /usr/bin/cmake /home/jungseong/robot_ws/src/msg_srv_action_interface_example -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jungseong/robot_ws/install/msg_srv_action_interface_example
+[0.049s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.240s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.262s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[0.307s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.312s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.326s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.345s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.367s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.387s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.958s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.466s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.655s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.690s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.729s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.729s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.729s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.770s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.782s] -- Configuring done
+[1.845s] -- Generating done
+[1.868s] -- Build files have been written to: /home/jungseong/robot_ws/build/msg_srv_action_interface_example
+[1.875s] Invoked command in '/home/jungseong/robot_ws/build/msg_srv_action_interface_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jungseong/robot_ws/install/topic_service_action_rclpy_final:/home/jungseong/robot_ws/install/topic_service_action_rclpy_example:/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg:/opt/ros/humble /usr/bin/cmake /home/jungseong/robot_ws/src/msg_srv_action_interface_example -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jungseong/robot_ws/install/msg_srv_action_interface_example
+[1.880s] Invoking command in '/home/jungseong/robot_ws/build/msg_srv_action_interface_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jungseong/robot_ws/install/topic_service_action_rclpy_final:/home/jungseong/robot_ws/install/topic_service_action_rclpy_example:/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg:/opt/ros/humble /usr/bin/cmake --build /home/jungseong/robot_ws/build/msg_srv_action_interface_example -- -j12 -l12
+[1.939s] [35m[1mConsolidate compiler generated dependencies of target msg_srv_action_interface_example__rosidl_generator_c[0m
+[1.951s] failed to create symbolic link '/home/jungseong/robot_ws/build/msg_srv_action_interface_example/ament_cmake_python/msg_srv_action_interface_example/msg_srv_action_interface_example' because existing path cannot be removed: Is a directory
+[1.952s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_msg_srv_action_interface_example.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_msg_srv_action_interface_example] Error 1
+[1.953s] gmake[1]: *** [CMakeFiles/Makefile2:421: CMakeFiles/ament_cmake_python_symlink_msg_srv_action_interface_example.dir/all] Error 2
+[1.953s] gmake[1]: *** Waiting for unfinished jobs....
+[1.953s] [  2%] Built target msg_srv_action_interface_example__cpp
+[1.957s] [ 12%] Built target msg_srv_action_interface_example__rosidl_generator_c
+[1.959s] gmake: *** [Makefile:146: all] Error 2
+[1.963s] Invoked command in '/home/jungseong/robot_ws/build/msg_srv_action_interface_example' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jungseong/robot_ws/install/topic_service_action_rclpy_final:/home/jungseong/robot_ws/install/topic_service_action_rclpy_example:/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg:/opt/ros/humble /usr/bin/cmake --build /home/jungseong/robot_ws/build/msg_srv_action_interface_example -- -j12 -l12

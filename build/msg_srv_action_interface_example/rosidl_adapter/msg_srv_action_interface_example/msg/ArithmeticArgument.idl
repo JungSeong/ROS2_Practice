@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from msg_srv_action_interface_example/msg/ArithmeticArgument.msg
+// generated code does not contain a copyright notice
+
+#include "builtin_interfaces/msg/Time.idl"
+
+module msg_srv_action_interface_example {
+  module msg {
+    @verbatim (language="comment", text=
+      "Messages")
+    struct ArithmeticArgument {
+      builtin_interfaces::msg::Time stamp;
+
+      float argument_a;
+
+      float argument_b;
+    };
+  };
+};

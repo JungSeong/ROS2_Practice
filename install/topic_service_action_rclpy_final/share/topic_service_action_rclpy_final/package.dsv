@@ -1,0 +1,9 @@
+source;share/topic_service_action_rclpy_final/hook/pythonpath.ps1
+source;share/topic_service_action_rclpy_final/hook/pythonpath.dsv
+source;share/topic_service_action_rclpy_final/hook/pythonpath.sh
+source;share/topic_service_action_rclpy_final/hook/ament_prefix_path.ps1
+source;share/topic_service_action_rclpy_final/hook/ament_prefix_path.dsv
+source;share/topic_service_action_rclpy_final/hook/ament_prefix_path.sh
+source;../../build/topic_service_action_rclpy_final/share/topic_service_action_rclpy_final/hook/pythonpath_develop.ps1
+source;../../build/topic_service_action_rclpy_final/share/topic_service_action_rclpy_final/hook/pythonpath_develop.dsv
+source;../../build/topic_service_action_rclpy_final/share/topic_service_action_rclpy_final/hook/pythonpath_develop.sh

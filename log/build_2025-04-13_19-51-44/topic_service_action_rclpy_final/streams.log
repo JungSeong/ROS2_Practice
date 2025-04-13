@@ -1,0 +1,26 @@
+[1.184s] Invoking command in '/home/jungseong/robot_ws/build/topic_service_action_rclpy_final': AMENT_PREFIX_PATH=/home/jungseong/robot_ws/install/msg_srv_action_interface_example:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jungseong/robot_ws/install/msg_srv_action_interface_example LD_LIBRARY_PATH=/home/jungseong/robot_ws/install/msg_srv_action_interface_example/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/jungseong/robot_ws/build/topic_service_action_rclpy_final/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jungseong/robot_ws/install/topic_service_action_rclpy_final/lib/python3.10/site-packages:/home/jungseong/robot_ws/install/msg_srv_action_interface_example/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jungseong/robot_ws/build/topic_service_action_rclpy_final/build --no-deps symlink_data
+[1.635s] running develop
+[1.963s] running egg_info
+[1.963s] creating topic_service_action_rclpy_final.egg-info
+[1.964s] writing topic_service_action_rclpy_final.egg-info/PKG-INFO
+[1.964s] writing dependency_links to topic_service_action_rclpy_final.egg-info/dependency_links.txt
+[1.965s] writing entry points to topic_service_action_rclpy_final.egg-info/entry_points.txt
+[1.965s] writing requirements to topic_service_action_rclpy_final.egg-info/requires.txt
+[1.965s] writing top-level names to topic_service_action_rclpy_final.egg-info/top_level.txt
+[1.965s] writing manifest file 'topic_service_action_rclpy_final.egg-info/SOURCES.txt'
+[1.969s] reading manifest file 'topic_service_action_rclpy_final.egg-info/SOURCES.txt'
+[1.970s] writing manifest file 'topic_service_action_rclpy_final.egg-info/SOURCES.txt'
+[1.972s] running build_ext
+[1.972s] Creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/lib/python3.10/site-packages/topic-service-action-rclpy-final.egg-link (link to .)
+[1.973s] Installing argument script to /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/lib/topic_service_action_rclpy_final
+[1.974s] Installing calculator script to /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/lib/topic_service_action_rclpy_final
+[1.974s] Installing checker script to /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/lib/topic_service_action_rclpy_final
+[1.974s] Installing operator script to /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/lib/topic_service_action_rclpy_final
+[1.974s] 
+[1.974s] Installed /home/jungseong/robot_ws/build/topic_service_action_rclpy_final
+[1.974s] running symlink_data
+[1.975s] creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/share/ament_index
+[1.975s] creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/share/ament_index/resource_index
+[1.975s] creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_final/share/ament_index/resource_index/packages
+[1.975s] error: can't copy '/home/jungseong/robot_ws/build/topic_service_action_rclpy_final/resource/topic_service_action_rclpy_final': doesn't exist or not a regular file
+[2.016s] Invoked command in '/home/jungseong/robot_ws/build/topic_service_action_rclpy_final' returned '1': AMENT_PREFIX_PATH=/home/jungseong/robot_ws/install/msg_srv_action_interface_example:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jungseong/robot_ws/install/msg_srv_action_interface_example LD_LIBRARY_PATH=/home/jungseong/robot_ws/install/msg_srv_action_interface_example/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/jungseong/robot_ws/build/topic_service_action_rclpy_final/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jungseong/robot_ws/install/topic_service_action_rclpy_final/lib/python3.10/site-packages:/home/jungseong/robot_ws/install/msg_srv_action_interface_example/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jungseong/robot_ws/build/topic_service_action_rclpy_final/build --no-deps symlink_data

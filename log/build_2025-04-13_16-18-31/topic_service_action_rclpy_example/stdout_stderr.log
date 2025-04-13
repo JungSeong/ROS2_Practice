@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/topic_service_action_rclpy_example/topic_service_action_rclpy_example.egg-info
+writing ../../build/topic_service_action_rclpy_example/topic_service_action_rclpy_example.egg-info/PKG-INFO
+writing dependency_links to ../../build/topic_service_action_rclpy_example/topic_service_action_rclpy_example.egg-info/dependency_links.txt
+writing entry points to ../../build/topic_service_action_rclpy_example/topic_service_action_rclpy_example.egg-info/entry_points.txt
+writing requirements to ../../build/topic_service_action_rclpy_example/topic_service_action_rclpy_example.egg-info/requires.txt
+writing top-level names to ../../build/topic_service_action_rclpy_example/topic_service_action_rclpy_example.egg-info/top_level.txt
+writing manifest file '../../build/topic_service_action_rclpy_example/topic_service_action_rclpy_example.egg-info/SOURCES.txt'
+reading manifest file '../../build/topic_service_action_rclpy_example/topic_service_action_rclpy_example.egg-info/SOURCES.txt'
+writing manifest file '../../build/topic_service_action_rclpy_example/topic_service_action_rclpy_example.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jungseong/robot_ws/build/topic_service_action_rclpy_example/build
+creating /home/jungseong/robot_ws/build/topic_service_action_rclpy_example/build/lib
+creating /home/jungseong/robot_ws/build/topic_service_action_rclpy_example/build/lib/topic_service_action_rclpy_example
+copying topic_service_action_rclpy_example/__init__.py -> /home/jungseong/robot_ws/build/topic_service_action_rclpy_example/build/lib/topic_service_action_rclpy_example
+running install
+running install_lib
+creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/lib/python3.10/site-packages/topic_service_action_rclpy_example
+copying /home/jungseong/robot_ws/build/topic_service_action_rclpy_example/build/lib/topic_service_action_rclpy_example/__init__.py -> /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/lib/python3.10/site-packages/topic_service_action_rclpy_example
+byte-compiling /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/lib/python3.10/site-packages/topic_service_action_rclpy_example/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/share/ament_index
+creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/share/ament_index/resource_index
+creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/share/ament_index/resource_index/packages
+copying resource/topic_service_action_rclpy_example -> /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/share/ament_index/resource_index/packages
+copying package.xml -> /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/share/topic_service_action_rclpy_example
+creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/share/topic_service_action_rclpy_example/launch
+creating /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/share/topic_service_action_rclpy_example/param
+running install_egg_info
+Copying ../../build/topic_service_action_rclpy_example/topic_service_action_rclpy_example.egg-info to /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/lib/python3.10/site-packages/topic_service_action_rclpy_example-0.0.0-py3.10.egg-info
+running install_scripts
+Installing argument script to /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+Installing calculator script to /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+Installing checker script to /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+Installing operator script to /home/jungseong/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+writing list of installed files to '/home/jungseong/robot_ws/build/topic_service_action_rclpy_example/install.log'

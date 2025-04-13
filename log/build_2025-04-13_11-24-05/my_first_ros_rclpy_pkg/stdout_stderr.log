@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing my_first_ros_rclpy_pkg.egg-info/PKG-INFO
+writing dependency_links to my_first_ros_rclpy_pkg.egg-info/dependency_links.txt
+writing entry points to my_first_ros_rclpy_pkg.egg-info/entry_points.txt
+writing requirements to my_first_ros_rclpy_pkg.egg-info/requires.txt
+writing top-level names to my_first_ros_rclpy_pkg.egg-info/top_level.txt
+reading manifest file 'my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+writing manifest file 'my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my-first-ros-rclpy-pkg.egg-link (link to .)
+
+Installed /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg
+running symlink_data
+symbolically linking /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/resource/my_first_ros_rclpy_pkg -> /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/package.xml -> /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/share/my_first_ros_rclpy_pkg

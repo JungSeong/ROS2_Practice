@@ -1,0 +1,27 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from msg_srv_action_interface_example/srv/ArithmeticOperator.srv
+// generated code does not contain a copyright notice
+
+
+module msg_srv_action_interface_example {
+  module srv {
+    module ArithmeticOperator_Request_Constants {
+      const int8 PLUS = 1;
+      const int8 MINUS = 2;
+      const int8 MULTIPLY = 3;
+      const int8 DIVISION = 4;
+    };
+    @verbatim (language="comment", text=
+      "Constants")
+    struct ArithmeticOperator_Request {
+      @verbatim (language="comment", text=
+        "Request")
+      int8 arithmetic_operator;
+    };
+    @verbatim (language="comment", text=
+      "Response")
+    struct ArithmeticOperator_Response {
+      float arithmetic_result;
+    };
+  };
+};

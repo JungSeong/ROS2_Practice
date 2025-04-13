@@ -1,0 +1,27 @@
+[1.117s] Invoking command in '/home/jungseong/robot_ws/src/my_first_ros_rclpy_pkg': PYTHONPATH=/home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_ros_rclpy_pkg build --build-base /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build install --record /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/install.log --single-version-externally-managed install_data
+[1.611s] running egg_info
+[1.613s] writing ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/PKG-INFO
+[1.614s] writing dependency_links to ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/dependency_links.txt
+[1.615s] writing entry points to ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/entry_points.txt
+[1.615s] writing requirements to ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/requires.txt
+[1.615s] writing top-level names to ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/top_level.txt
+[1.619s] reading manifest file '../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[1.620s] writing manifest file '../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[1.621s] running build
+[1.621s] running build_py
+[1.621s] copying my_first_ros_rclpy_pkg/helloworld_subscriber.py -> /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build/lib/my_first_ros_rclpy_pkg
+[1.621s] copying my_first_ros_rclpy_pkg/helloworld_publisher.py -> /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build/lib/my_first_ros_rclpy_pkg
+[1.621s] running install
+[1.622s] running install_lib
+[1.623s] copying /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build/lib/my_first_ros_rclpy_pkg/helloworld_subscriber.py -> /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg
+[1.624s] copying /home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/build/lib/my_first_ros_rclpy_pkg/helloworld_publisher.py -> /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg
+[1.624s] byte-compiling /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg/helloworld_subscriber.py to helloworld_subscriber.cpython-310.pyc
+[1.625s] byte-compiling /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg/helloworld_publisher.py to helloworld_publisher.cpython-310.pyc
+[1.626s] running install_data
+[1.626s] running install_egg_info
+[1.628s] removing '/home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.629s] Copying ../../build/my_first_ros_rclpy_pkg/my_first_ros_rclpy_pkg.egg-info to /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my_first_ros_rclpy_pkg-0.0.0-py3.10.egg-info
+[1.630s] running install_scripts
+[1.662s] Installing helloworld_publisher script to /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+[1.662s] Installing helloworld_subscriber script to /home/jungseong/robot_ws/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+[1.662s] writing list of installed files to '/home/jungseong/robot_ws/build/my_first_ros_rclpy_pkg/install.log'
